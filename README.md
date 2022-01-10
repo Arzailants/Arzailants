@@ -3,7 +3,7 @@
 <p>Welcome to My Profile</p>
 <p>Hi, I'm Andre Rizaldi Brillianto, I'm a Java Developer. Check <a href="#">ℹ️</a> For More Information.</p>
 
-[![](https://img.shields.io/badge/-@arzailants-black?logo=medium&style=flat-square)](https://medium.com/@rief.rosyidi)
+[![](https://img.shields.io/badge/-@andrerizaldib-black?logo=medium&style=flat-square)](https://medium.com/@rief.rosyidi)
 [![](https://img.shields.io/badge/-arzailants-1fa2f2?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/Rief014)
 [![](https://img.shields.io/badge/-arzailants-1ba94c?logo=hackerrank&style=flat-square&logoColor=white)](https://www.hackerrank.com/rief_rosyidi)  
 </div>
