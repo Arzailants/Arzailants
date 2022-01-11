@@ -1,5 +1,5 @@
-<div align="center">
-<h3>Hi there 👋,</h3>
+<div align="left">
+<h1>Hi there 👋,</h1>
 <p>Welcome to My Profile</p>
 <p>Hi, I'm Andre Rizaldi Brillianto, I'm a Java Developer. Check <a href="#">ℹ️</a> For More Information.</p>
 
