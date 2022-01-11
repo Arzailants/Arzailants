@@ -18,7 +18,7 @@
 </a>
 
 <!-- status codes -->
-<a align="center" href="https://rifqirosyidi.github.io">
+<a align="center" href="https://arzailants.github.io">
     <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rifqirosyidi&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqirosyidi&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=radical&layout=compact" alt="languages" height="165">
     </p>
