@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Andre Rizaldi Brillianto
 
-[![Website](https://img.shields.io/badge/codelamps-grey?style=for-the-badge&url=https%3A%2F%2Fcodelamps)](https://www.codelamps.com)
+[![Website](https://img.shields.io/badge/codelamps-black?style=for-the-badge&url=https%3A%2F%2Fcodelamps)](https://www.codelamps.com)
 [![Medium](https://img.shields.io/badge/-@andrerizaldib-black?logo=medium&style=flat-square)](https://medium.com/@andrerizaldib)
 
 :school: Currently studying Computer Science at Amikom University, Purwokerto</br>
