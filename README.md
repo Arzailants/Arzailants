@@ -2,7 +2,7 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Andre Rizaldi Brillianto
 
 [![Medium](https://img.shields.io/badge/-@andrerizaldib-black?logo=medium&style=flat-square)](https://medium.com/@andrerizaldib)
-[![Website](https://img.shields.io/badge/-codelamps-black?&logo=google&style=flat-square)](https://codelamps.com)
+[![Website](https://img.shields.io/badge/-codelamps.com-black?&logo=google&style=flat-square)](https://codelamps.com)
 
 :school: Currently studying Computer Science at Amikom University, Purwokerto</br>
 :fountain_pen: I love about mobile tech</br>
