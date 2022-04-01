@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/badge/codelamps-black?style=for-the-badge&url=https%3A%2F%2Fcodelamps)](https://www.codelamps.com)
 [![Medium](https://img.shields.io/badge/-@andrerizaldib-black?logo=medium&style=flat-square)](https://medium.com/@andrerizaldib)
-[![Website](https://img.shields.io/badge/-codelamps-black?logo=medium&style=flat-square)](https://codelamps.com)
+[![Website](https://img.shields.io/badge/-codelamps-black?&style=flat-square)](https://codelamps.com)
 
 :school: Currently studying Computer Science at Amikom University, Purwokerto</br>
 :fountain_pen: I love about mobile tech</br>
