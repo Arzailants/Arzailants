@@ -9,6 +9,3 @@
 :computer: I love Programming</br>
 :video_game: I'm only playing Lineage 2 Revolution and Crossfire Mobile</br>
 :mailbox: How to reach me: <a href="mailto:andrerizaldib@gmail.com">andrerizaldib@gmail.com</a>
-
-| <a href="https://github.com/arzailants/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arzailants&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Arzailant's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzailants&theme=github_dark&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
