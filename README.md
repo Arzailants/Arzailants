@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/badge/-codelamps.com-black?&logo=google&style=flat-square)](https://codelamps.com)
 
 :school: Currently studying Computer Science at Amikom University, Purwokerto</br>
-:fountain_pen: I love about mobile tech</br>
+:fountain_pen: I love about tech</br>
 :computer: I love Programming</br>
 :video_game: I'm only playing Lineage 2 Revolution and Crossfire Mobile</br>
 :mailbox: How to reach me: <a href="mailto:andrerizaldib@gmail.com">andrerizaldib@gmail.com</a>
